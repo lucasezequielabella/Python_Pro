@@ -69,4 +69,6 @@ async def cool(ctx):
 async def _bot(ctx):
     """Is the bot cool?"""
     await ctx.send('Yes, the bot is cool.')
-    
+
+
+bot.run("")
